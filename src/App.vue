@@ -22,19 +22,16 @@ import {
       <BCol>
         <BListGroup cols="4"> 
           <BListGroupItem>
-            <RouterLink to="/">Home</RouterLink>
+            <RouterLink to="/">I.GIỚI THIỆU ĐÌNH THÔNG TÂY HỘI</RouterLink>
           </BListGroupItem>
           <BListGroupItem>
-            <RouterLink to="/page1">BẢO TỒN</RouterLink>
+            <RouterLink to="/page1">II.BẢO TỒN</RouterLink>
           </BListGroupItem>
           <BListGroupItem>
-            <RouterLink to="/page2">PHÁT TRIỂN</RouterLink>
+            <RouterLink to="/page2">III.PHÁT TRIỂN</RouterLink>
           </BListGroupItem>
           <BListGroupItem>
-            <RouterLink to="/page3">HỢP TÁC QUỐC TẾ TRÊ LĨNH VỰC DU LỊCH</RouterLink>
-          </BListGroupItem>
-          <BListGroupItem>
-            <RouterLink to="/page4">ĐÓNG VAI MỘT NHÀ LÃNH ĐẠO</RouterLink>
+            <RouterLink to="/page3">IV.HỢP TÁC QUỐC TẾ</RouterLink>
           </BListGroupItem>
         </BListGroup>
       </BCol>
